@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "093dd8f8-9f9c-4da6-8de9-f7da1d75ab5d",
+            "Value": {
+                "id": "63be8ba2-cefb-4b7d-8b12-53724ae477db",
+                "resourcePath": "objects\\enemy\\enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d5cdd43-5b46-47cf-bca5-da48fe5d1ec1",
             "Value": {
                 "id": "9c31a931-48c8-4038-a6b9-03b9e015cf58",
@@ -87,11 +95,35 @@
             }
         },
         {
+            "Key": "64d43e25-31c7-449f-94e4-8cb3c0f14226",
+            "Value": {
+                "id": "e3bd3c57-598c-416f-af61-c132f7fffc8f",
+                "resourcePath": "sprites\\opponent\\opponent.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73b8b7a4-2d57-4423-946b-9b83d3e349fa",
+            "Value": {
+                "id": "2dac3c92-b357-4b82-b685-a3ef2532cd5e",
+                "resourcePath": "objects\\throwingaxe\\throwingaxe.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7894f8d9-3e00-4960-b3af-38d0da5da8b1",
             "Value": {
                 "id": "14227272-a055-4d8c-8346-9416b7cb2c8c",
                 "resourcePath": "views\\7894f8d9-3e00-4960-b3af-38d0da5da8b1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c6cac73-5599-46a5-9282-b247c4299b70",
+            "Value": {
+                "id": "e21f461f-5e5d-4c6f-aff2-3b201c122063",
+                "resourcePath": "sprites\\shield\\shield.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +172,14 @@
                 "id": "6ad53dc9-9ecb-475f-ba4b-a7cdb8e960d8",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cad4081f-9358-4f5b-a3d0-35b8bff4b15c",
+            "Value": {
+                "id": "c669cfad-a3fa-42a6-ae9a-bb1f3b39c4f4",
+                "resourcePath": "sprites\\axe\\axe.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
